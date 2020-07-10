@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Binge-o-Philia](https://play.google.com/store/apps/details?id=com.vibhu4agarwal.Binge_o_Philia).
+- 🔭 I’m currently working on **[Binge-o-Philia](https://play.google.com/store/apps/details?id=com.vibhu4agarwal.Binge_o_Philia)**.
 - 💼 I'm also working on some great closed-source projies at [Viga Studios](https://github.com/Viga-Entertainment-Technology/).
 - 🌱 I’m currently learning how to make cross-platform applications.
 - 👯 I’m looking to collaborate on Django and Python.
