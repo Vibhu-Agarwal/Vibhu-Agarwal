@@ -17,13 +17,19 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on **[Binge-o-Philia](https://play.google.com/store/apps/details?id=com.vibhu4agarwal.Binge_o_Philia)**.
-- 💼 I'm also working on some great closed-source projies at [Viga Studios](https://github.com/Viga-Entertainment-Technology/).
-- 🌱 I’m currently learning how to make CI/CD pipelines and containerize & deploy applications.
+- 🔭 I’m currently working on **[Hostel-Adda](https://play.google.com/store/apps/details?id=com.vibhu4agarwal.Hostel_Adda)**.
+- 📅 I've put the development of **[Binge-o-Philia](https://play.google.com/store/apps/details?id=com.vibhu4agarwal.Binge_o_Philia)** on hold, for now.
+- 💼 Last year, I worked on some great closed-source projies at [Viga Studios](https://github.com/Viga-Entertainment-Technology/).
+- 🌱 I’m currently learning how to containerize & deploy applications.
 - 🤔 I’m looking for help with designing and architecting softwares.
 - 👯 I’m looking to collaborate on Django and Python.
 - 💬 Ask me about Back-End Dev. and Hogwarts.
 - 📫 How to reach me: [vibhu-agarwal.github.io](https://vibhu-agarwal.github.io/)
+
+<br/>
+
+- 👨‍💻 **I'm open to work** and can start working full-time from January 2022.  
+  (after I complete my Dual Bachelors & Masters this year)
 <!--- 😄 Pronouns: ...-->
 <!--- ⚡ Fun fact: ... ...-->
 
