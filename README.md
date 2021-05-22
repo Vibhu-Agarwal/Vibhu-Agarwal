@@ -29,8 +29,8 @@
 
 <br/>
 
-- 👨‍💻 **I'm open to work** and can start working full-time from January 2022.  
-  (after I complete my Dual Bachelors & Masters this year)
+- 👨‍💻 **I'm open to new opportunities** and can start working full-time from January 2022.  
+  (after I complete my Dual - Bachelors & Masters course this year)
 <!--- 😄 Pronouns: ...-->
 <!--- ⚡ Fun fact: ... ...-->
 
