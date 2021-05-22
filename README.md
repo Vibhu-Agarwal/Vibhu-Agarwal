@@ -17,7 +17,8 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on **[Hostel-Adda](https://play.google.com/store/apps/details?id=com.vibhu4agarwal.Hostel_Adda)**.
+- 🔭 I’m currently working on **[Hostel-Adda](https://play.google.com/store/apps/details?id=com.vibhu4agarwal.Hostel_Adda)**.  
+... which uses **[Hedwig🦉💬](https://github.com/shawarmaKoders/Hedwig)** for its chat-features.
 - 📅 I've put the development of **[Binge-o-Philia](https://play.google.com/store/apps/details?id=com.vibhu4agarwal.Binge_o_Philia)** on hold, for now.
 - 💼 Last year, I worked on some great closed-source projies at [Viga Studios](https://github.com/Viga-Entertainment-Technology/).
 - 🌱 I’m currently learning how to containerize & deploy applications.
