@@ -17,14 +17,15 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on **[Hostel-Adda](https://play.google.com/store/apps/details?id=com.vibhu4agarwal.Hostel_Adda)**.  
-... which uses **[Hedwig🦉💬](https://github.com/shawarmaKoders/Hedwig)** for its chat-features.
-- 📅 I've put the development of **[Binge-o-Philia](https://play.google.com/store/apps/details?id=com.vibhu4agarwal.Binge_o_Philia)** on hold, for now.
-- 💼 Last year, I worked on some great closed-source projies at [Viga Studios](https://github.com/Viga-Entertainment-Technology/).
-- 🌱 I’m currently learning how to containerize & deploy applications.
-- 🤔 I’m looking for help with designing and architecting softwares.
-- 👯 I’m looking to collaborate on Django and Python.
-- 💬 Ask me about Back-End Dev. and Hogwarts.
+- 🔨 I’m currently working on [encode::uvicorn#1026](https://github.com/encode/uvicorn/pull/1026) 
+- 📱 Recently, I’ve also been working on **[Hostel-Adda](https://play.google.com/store/apps/details?id=com.vibhu4agarwal.Hostel_Adda)**  
+... which uses **[Hedwig🦉💬](https://github.com/shawarmaKoders/Hedwig)** for its chat-features
+- 📅 I've put the development of **[Binge-o-Philia](https://play.google.com/store/apps/details?id=com.vibhu4agarwal.Binge_o_Philia)** on hold, for now
+- 💼 Last year, I worked on some great closed-source projies at [Viga Studios](https://github.com/Viga-Entertainment-Technology/)
+- 🌱 I’m currently learning how to containerize & deploy applications
+- 🤔 I’m looking for help with designing and architecting softwares
+- 👯 I’m looking to collaborate on Django and Python
+- 💬 Ask me about Back-End Dev. and Hogwarts
 - 📫 How to reach me: [vibhu-agarwal.github.io](https://vibhu-agarwal.github.io/)
 
 <br/>
