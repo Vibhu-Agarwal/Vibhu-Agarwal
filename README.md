@@ -30,7 +30,7 @@
 
 <hr>
 
-- 👨‍💻 **I'm open to new opportunities** and can start working full-time from June 2022.
+- 👨‍💻 **I'm open to new opportunities** and can start working full-time from July 2022.
 
 <hr>
 
