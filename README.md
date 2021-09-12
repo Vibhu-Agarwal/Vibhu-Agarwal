@@ -37,8 +37,8 @@
 ### My Talks 🗣️
 | Conference | Title | Date and Time | Video
 |--|--|--|--|
-| [**PyCon Australia 2021**](https://2021.pycon.org.au/) | [Hey, Python-Web-Community! What's going on?](https://2021.pycon.org.au/program/bwn9bp/) | 15:30 AEST September 11, 2021 |  |
 | [**PyCon India 2021**](https://in.pycon.org/2021/) | [Hey, Python-Web-Community! What's going on?](https://in.pycon.org/cfp/2021/proposals/hey-python-web-community-whats-going-on~erkR4/) | 15:30 IST September 19, 2021 |  |
+| [**PyCon Australia 2021**](https://2021.pycon.org.au/) | [Hey, Python-Web-Community! What's going on?](https://2021.pycon.org.au/program/bwn9bp/) | 15:30 AEST September 11, 2021 |  |
 | [**DjangoCon Europe 2021**](https://2021.djangocon.eu/) | DRF = RESTful APIs? | 14:50 CEST June 3, 2021 | [YouTube](https://www.youtube.com/watch?v=toMQd3UJWU4&t=1415s) |
 | [**PyCon Sweden 2020**](http://www.pycon.se/2020/) | Developing a Single-Sign-On Service using Django | 14:15 CET, November 12, 2020 | [YouTube](https://youtu.be/4BN2Np7fUqY) |
 | [**PyCon India 2020**](https://in.pycon.org/2020/) | [Developing a Single-Sign-On Service using Django](https://in.pycon.org/cfp/2020/proposals/developing-a-single-sign-on-service-using-django~b26Mb/) | 15:20 IST, October 3, 2020 | [YouTube](https://youtu.be/JOMHAJNiQg8) |
