@@ -29,9 +29,10 @@
 - 💬 Ask me about Back-End Dev. and Hogwarts
 - 📫 How to reach me: [vibhu-agarwal.github.io](https://vibhu-agarwal.github.io/)
 
+<!-- 
 <hr>
 
-- 👨‍💻 **I'm open to new opportunities** and can start working full-time from July 2022.
+- 👨‍💻 **I'm open to new opportunities** and can start working full-time from August 2022. -->
 
 <hr>
 
