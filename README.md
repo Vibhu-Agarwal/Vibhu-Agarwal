@@ -17,7 +17,7 @@
 <!-- <br/>
 <br/> -->
 
-- 🎮 SDE Intern at [Playsimple Games](https://playsimple.in/)
+- 🎮 SDE Intern at [Playsimple Games](https://playsimple.in/), developing **[Jigsaw 🧩](https://play.google.com/store/apps/details?id=in.playsimple.jigsaw_puzzle)**
 - 🔨 Last Major PR I worked on: [encode::uvicorn#1026](https://github.com/encode/uvicorn/pull/1026) 
 - 📱 In 2021, I worked on **[Hostel-Adda](https://play.google.com/store/apps/details?id=com.vibhu4agarwal.Hostel_Adda)**  
 ... which uses **[Hedwig🦉💬](https://github.com/shawarmaKoders/Hedwig)** for its chat-features
