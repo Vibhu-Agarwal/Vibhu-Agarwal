@@ -17,12 +17,13 @@
 <!-- <br/>
 <br/> -->
 
-- 🎮 SDE-I at [Playsimple Games](https://playsimple.in/), developing **[Jigsaw 🧩](https://play.google.com/store/apps/details?id=in.playsimple.jigsaw_puzzle)**
+- 👨‍⚕️ SDE-I at [Nference](https://nference.com/)
+- 🧩 For the most part of 2022, I was developing **[Jigsaw](https://play.google.com/store/apps/details?id=in.playsimple.jigsaw_puzzle)**
 - 🔨 Last Major PR I worked on: [encode::uvicorn#1026](https://github.com/encode/uvicorn/pull/1026) 
 - 📱 In 2021, I worked on **[Hostel-Adda](https://play.google.com/store/apps/details?id=com.vibhu4agarwal.Hostel_Adda)**  
 ... which uses **[Hedwig🦉💬](https://github.com/shawarmaKoders/Hedwig)** for its chat-features
 - 📅 I've put the development of **[Binge-o-Philia](https://play.google.com/store/apps/details?id=com.vibhu4agarwal.Binge_o_Philia)** on hold, for now
-- 💼 Throughout 2020, I worked on some great closed-source projies at [Viga Studios](https://github.com/Viga-Entertainment-Technology/)
+- 🎬 Throughout 2020, I worked on some awesome projies at [Viga Studios](https://github.com/Viga-Entertainment-Technology/)
 - 🌱 I’m currently learning how to containerize & deploy applications
 - 🤔 I’m looking for help with designing and architecting softwares
 - 👯 I’m looking to collaborate on Django and Python
