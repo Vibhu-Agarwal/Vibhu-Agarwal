@@ -17,17 +17,12 @@
 <!-- <br/>
 <br/> -->
 
-- 👨‍⚕️ Software Engineer at [Nference](https://nference.com/) [[@vibhu4nfer](https://github.com/vibhu4nfer)]
-- 🧩 For the most part of 2022, I was developing **[Jigsaw](https://play.google.com/store/apps/details?id=in.playsimple.jigsaw_puzzle)**
 - 🔨 Last Major PR I worked on: [encode::uvicorn#1026](https://github.com/encode/uvicorn/pull/1026) 
 - 📱 In 2021, I worked on **[Hostel-Adda](https://play.google.com/store/apps/details?id=com.vibhu4agarwal.Hostel_Adda)**  
 ... which uses **[Hedwig🦉💬](https://github.com/shawarmaKoders/Hedwig)** for its chat-features
 - 📅 I've put the development of **[Binge-o-Philia](https://play.google.com/store/apps/details?id=com.vibhu4agarwal.Binge_o_Philia)** on hold, for now
-- 🎬 Throughout 2020, I worked on some awesome projies at [Viga Studios](https://github.com/Viga-Entertainment-Technology/)
-- 🌱 I’m currently learning how to containerize & deploy applications
 - 🤔 I’m looking for help with designing and architecting softwares
-- 👯 I’m looking to collaborate on Django and Python
-- 💬 Ask me about Back-End Dev. and Hogwarts
+- 💬 Ask me about DevOps, Back-End Dev. or Hogwarts
 - 📫 How to reach me: [vibhu-agarwal.github.io](https://vibhu-agarwal.github.io/)
 
 <!-- 
@@ -46,7 +41,14 @@
 | [**PyCon Sweden 2020**](http://www.pycon.se/2020/) | Developing a Single-Sign-On Service using Django | 14:15 CET, November 12, 2020 | [YouTube](https://youtu.be/4BN2Np7fUqY) |
 | [**PyCon India 2020**](https://in.pycon.org/2020/) | [Developing a Single-Sign-On Service using Django](https://in.pycon.org/cfp/2020/proposals/developing-a-single-sign-on-service-using-django~b26Mb/) | 15:20 IST, October 3, 2020 | [YouTube](https://youtu.be/JOMHAJNiQg8) |
 
-<!--- 😄 Pronouns: ...-->
-<!--- ⚡ Fun fact: ... ...-->
+
+
+### Work Work  💼
+| Org | Account | Tenure
+|--|--|--|
+| ✈️ [@pelago](https://github.com/V287) | [@vibhu4pelago](https://github.com/vibhu4pelago) | May '24 - |
+| 👨‍⚕️ [@nference](https://github.com/lumenbiomics) | [@vibhu4nfer](https://github.com/vibhu4nfer) | Oct '22 - May '24 |
+| 🎮 [Playsimple](https://playsimple.in/) |  | Feb '22 - Sept '22 |
+| 🎬 [@Viga-Studios](https://github.com/Viga-Entertainment-Technology) |  | Mar '20 - Dec '20 |
 
 <!--![My github stats](https://github-readme-stats.vercel.app/api?username=Vibhu-Agarwal&show_icons=true&hide_border=true&hide=["stars"])-->
