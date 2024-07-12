@@ -46,7 +46,7 @@
 ### Work Work  💼
 | Org | Account | Tenure
 |--|--|--|
-| ✈️ [@google](https://github.com/google) |  | July '24 - ∞ |
+| ☁️ [@google](https://github.com/google) |  | July '24 - ∞ |
 | ✈️ [@pelago](https://github.com/V287) | [@vibhu4pelago](https://github.com/vibhu4pelago) | May '24 - June '24 |
 | 👨‍⚕️ [@nference](https://github.com/lumenbiomics) | [@vibhu4nfer](https://github.com/vibhu4nfer) | Oct '22 - May '24 |
 | 🎮 [Playsimple](https://playsimple.in/) |  | Feb '22 - Sept '22 |
